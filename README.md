@@ -291,9 +291,6 @@ The app can be deployed to any platform that supports Next.js:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 🆘 Support
-
-For support, email support@ai-recruiter.com or join our Slack channel.
 
 ## 🙏 Acknowledgments
 
